@@ -1,7 +1,6 @@
-#include <stdio.h>
 #include <unistd.h>
 /**
- * main - A c program that print a line till a standard error
+ * main - UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
  * Return 1 (great)
  */
 int main(void)
