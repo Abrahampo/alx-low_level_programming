@@ -4,7 +4,7 @@
  * main - A c program that print a line till a standard error
  * Return 1 (great)
  */
-int maim(void)
+int main(void)
 {	
 	fput("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n",stdout);
 return (1);
