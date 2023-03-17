@@ -2,8 +2,8 @@
 
 /**
  * main - the prints alphabetic
- * Rwturn: Always (Success)
- */*
+ * Return: Always (Success)
+ */
 int main(void)
 {
 	char c;
