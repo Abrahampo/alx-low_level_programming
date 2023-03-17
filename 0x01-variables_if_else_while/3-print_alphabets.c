@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stlib.h>
+#include <time.h>
+
+/**
+ * main - entering point
+ * Return: 0 (success)
+ */*
+
+int main(void)
+{
+	char low;
+
+	for (low = 'a'; low <= 0 'z'; low++)
+	putchar(low);
+
+	for (low = 'A'; low <= 'Z'; low++)
+	putchar(low);
+	putchar('\n');
+
+	return (0);
+}
