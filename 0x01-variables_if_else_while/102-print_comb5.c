@@ -2,9 +2,10 @@
 
 /**
  * main - Entry point
- * description: Write a program that prints all possible combinations of two two-digit numbers
+ * description: Write a program that prints all possible
+ * diffrenet combinations of two digits
  * Return: 0
- */*
+ */
 
 int main(void)
 {
