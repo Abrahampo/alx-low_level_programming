@@ -5,7 +5,7 @@
 /**
  * main - entering digits
  *
- * Return: just 0 (succsee)
+ * Return: just 0 (sucess)
  */
 int main(void)
 {
