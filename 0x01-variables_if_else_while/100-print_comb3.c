@@ -17,7 +17,7 @@ int main(void)
 	{
 	if (x != a)
 	{
-	putcahr(a);
+	putchar(a);
 	putchar(x);
 	if (a == '8' && x == '9')
 	continue;
