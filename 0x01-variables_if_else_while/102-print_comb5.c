@@ -20,7 +20,7 @@ int main(void)
 			{
 				putchar((firstdigit / 10) + 48);
 				putchar((firstdigit % 10) + 48);
-				putcahr(',');
+				putchar(',');
 				putchar((seconddigit / 10) + 48);
 				putchar((seconddigit % 10) + 48);
 
