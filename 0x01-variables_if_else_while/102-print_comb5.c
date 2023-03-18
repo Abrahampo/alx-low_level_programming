@@ -18,7 +18,7 @@ int main(void)
 		{
 			if (seconddigit != firstdigit)
 			{
-				putchar((firsrdigit / 10) + 48);
+				putchar((firstdigit / 10) + 48);
 				putchar((firstdigit % 10) + 48);
 				putcahr(',');
 				putchar((seconddigit / 10) + 48);
