@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - A c progrm that prints a line to the line to the  standard erros let'
+ * main - A c progrm that prints a line to the line to the  standard erros let
  * Return 1 (Success)
  */
 int main(void)
