@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - UNIX is basically a simple operating system, but you have to be a gen
- * Return 1 (success)
+ * main - A c progrm that prints a line to the line to the  standard erros let'
+ * Return 1 (Success)
  */
 int main(void)
 {
