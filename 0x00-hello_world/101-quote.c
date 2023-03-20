@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - A c progrm that prints a line to the line to the  standard erros let
+ * main - UNIX is basically a simple operating system, but you have to be a gr
  * Return 1 (Success)
  */
 int main(void)
