@@ -6,7 +6,6 @@
  * @num2: The second number to be computed
  * Return: Integer value
  */
- 
 int add(int num1, int num2)
 
 {
