@@ -1,0 +1,14 @@
+#include "main.h"
+/**
+ * main - Test function for positvie or negative
+ * Return: 0
+ */
+
+int main(void)
+{
+	int i;
+	i = 0;
+	positive_0r_negative(i);
+
+	return (0);
+}
