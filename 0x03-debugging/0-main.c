@@ -8,6 +8,7 @@
 int main(void)
 {
 	int i;
+
 	i = 0;
 	positive_0r_negative(i);
 
