@@ -7,6 +7,7 @@
  */
 
 int main(void)
+
 {
 	int x;
 	
@@ -36,4 +37,3 @@ int main(void)
 		printf("\n");
 		return (0);
 }
-
