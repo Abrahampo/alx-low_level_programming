@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - annoying
+ * main - it prints the last digit
  *
- * Retuen: 0
+ * Retuen: just 0 (success)
  */
 int main(void)
 {
