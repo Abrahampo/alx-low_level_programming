@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * main - Test function for positvie or negative
+ * main - Tests function that prints if  integr is  positvie or negative
  * Return: 0
  */
 
 int main(void)
+
 {
 	int i;
 
