@@ -16,10 +16,10 @@ void print_line(int n)
 	}
 	else
 	{
-		for (y = 0; x < n; y++)
+		for (y = 0; y < n; y++)
 		{
 			_putchar(95);
 		}
-		_putchar('\n')
+		_putchar('\n');
 	}
 }
