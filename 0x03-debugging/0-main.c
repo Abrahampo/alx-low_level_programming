@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Tests function that prints if  integr is  positvie or negative
+ * main - Tests function that prints if  integer is  positvie or negative
  * Return: 0
  */
 
@@ -10,7 +10,8 @@ int main(void)
 {
 	int i;
 
-	i = 0;
-	positive_or_negative(0);
+	i = 89;
+	positive_or_negative(i);
+
 	return (0);
 }
