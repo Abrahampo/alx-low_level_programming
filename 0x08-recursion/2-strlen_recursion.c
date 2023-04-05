@@ -1,0 +1,16 @@
+#include "main.h"
+
+/**
+ * _strlen-recursion - Caculate the length of a string
+ * @s: the string to check
+ * Return: integer values
+ */
+int _strlen_recursion(cahr *s)
+{
+	if (*s == '\0')
+	{
+		return (0);
+	}
+	s++;
+	return (_strlen_recursion(s) + 1)
+}
