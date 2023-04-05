@@ -5,7 +5,7 @@
  * @s: the string to check
  * Return: integer values
  */
-int _strlen_recursion(cahr *s)
+int _strlen_recursion(char *s)
 {
 	if (*s == '\0')
 	{
