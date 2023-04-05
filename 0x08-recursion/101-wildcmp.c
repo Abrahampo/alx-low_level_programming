@@ -3,8 +3,8 @@
 /**
  * wildcmp - compares two strirngs.
  * @s1: string 1.
- * @s2: string 2. it contain a * s as special characters.
- * Return: 1 if they are in identical, 0 if not
+ * @s2: string 2. it contain a * as a special characters.
+ * Return: 1 if are identical, 0 if not
  */
 
 int wildcmp(char *s1, char *s2)
