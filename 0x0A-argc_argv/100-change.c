@@ -6,7 +6,7 @@
  * make change for an amount of money.
  * @argc: The number of arguments supplied to the program.
  * @argv: An arraay of pointers to the argument
- * Rturn: if the number of argument is not axactl one - 1
+ * Return: if the number of argument is not axactl one - 1
  * else - 0.
  */
 int main(int argc, char *argv[])
