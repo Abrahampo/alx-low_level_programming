@@ -1,6 +1,6 @@
-#include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
+#include "main.h"
 
 #define ERR_MSG "Error"
 
@@ -10,6 +10,7 @@
  *
  * Return: 0 if a non-digit is found, 1 otherwise
  */
+
 int is_digit(char *s)
 {
 	int k = 0;
