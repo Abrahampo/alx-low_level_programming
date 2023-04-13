@@ -13,13 +13,13 @@
 
 int is_digit(char *s)
 {
-	int k = 0;
+	int i = 0;
 
-	while (s[k])
+	while (s[i])
 	{
-		if (s[k] < '0' || s[k] > '9')
+		if (s[i] < '0' || s[i] > '9')
 			return (0);
-		k++;
+		i++;
 	}
 	return (1);
 }
@@ -32,13 +32,13 @@ int is_digit(char *s)
  */
 int _strlen(char *s)
 {
-	int k = 0;
+	int i = 0;
 
-	while (s[k] != '\0')
+	while (s[i] != '\0')
 	{
-		k++;
+		i++;
 	}
-	return (k);
+	return (i);
 }
 
 /**
