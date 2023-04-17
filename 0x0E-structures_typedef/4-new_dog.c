@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include "dog.h"
 
-
 /**
  * _strlen - returns the length of a string
  * @s: string to evaluate
@@ -33,7 +32,7 @@ int _strlen(char *s)
  */
 char *_strcpy(char *dest, char *src)
 {
-	int len, k;
+	int len;
 
 	len = 0;
 	while (src[len] != '\0')
