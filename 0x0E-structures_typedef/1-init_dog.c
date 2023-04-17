@@ -2,11 +2,11 @@
 #include "dog.h"
 
 /**
- * init_dog - initializes a variable of type struct dog
- * @d: poniter to struct dog to initialize
+ * init_dog - initialize a variable of type struct dog
+ * @d: pointer to struct dog to initialize
  * @name: name to initialize
- * @age: age to inintialize
- * @owner: owner to inintialize
+ * @age: age to initialize
+ * @owner: owner to initialize
  */
 
 void init_dog(struct dog *d, char *name, float age, char *owner)
