@@ -3,23 +3,23 @@
 
 /**
  * struct dog - a dog basic information
- * @nn: name of dog
+ * @name: name of dog
  * @age: age of dog
- * @own: owner of dog
+ * @owner: owner of dog
  */
 
 struct dog
 {
-	char *nn;
+	char *name;
 	float age;
-	char *own;
+	char *owner;
 };
 
-void int_dog(struct dog *d, char *n, float age, char *own);
-void print_dog(struct dog *d);
+void int_dog(struct dog *d, char *name, float age, char *owner);
+void print_dog(struct dog *dd);
 typedef struct dog dog_tt;
-dog_tt *new_dog(char *n, float age, char own);
-void free_dog(dog_tt *d);
+dog_tt *new_dog(char *name, float age, char owner);
+void free_dog(dog_tt *dd);
 char *_strcpy(char *dest, char *src);
 int _strlen(char *v);
 
