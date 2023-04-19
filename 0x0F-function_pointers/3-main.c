@@ -10,7 +10,7 @@
  * Return: just 0.
  */
 
-int main(int _attribute__((__unsed__)) argc, char *argv[])
+int main(int __attribute__((__unused__)) argc, char *argv[])
 {
 	int nn1, nn2;
 	char *opp;
@@ -24,7 +24,7 @@ int main(int _attribute__((__unsed__)) argc, char *argv[])
 	opp = argv[2];
 	nn2 = atoi(argv[3]);
 	
-	if (get_opp_func(opp) == NULL || opp[1] != '\0')
+	if (get_op_func(opp) == NULL || opp[1] != '\0')
 	{
 		printf("Error\n");
 		exit(99);
@@ -35,6 +35,6 @@ int main(int _attribute__((__unsed__)) argc, char *argv[])
 		printf("Error\n");
 		exit(100);
 	}
-	printf("%d", get_opp_func(opp)(nn1, nn2))
+	printf("%d", get_op_func(opp)(nn1, nn2));
 		return (0);
 }
