@@ -3,8 +3,7 @@
 
 /**
  * sum_listint - prints the sum of all the data for the listint_t list
- * @head: the actual or first node in the linked list
- *
+ * @h: the actual or first node in the linked list
  * Return: the sum or products
  */
 int sum_listint(listint_t *head)

@@ -2,7 +2,7 @@
 
 /**
  * pop_listint - Traverses of the head node
- * @head: A pointer that take the first elements
+ * @h: A pointer that take the first elements
  * Return: The amount dat inside the elements that was traversed,
  * 0 if the list doni't have nothing
  */

@@ -4,7 +4,7 @@
 /**
  * insert_nodeint_at_index - puts new node into linked list,
  * in the a precise positions
- * @head: A pointer to take the first node
+ * @h: A pointer to take the first node
  * @idx:sufix or index where the new nodes are added
  * @n: element to add in the new node
  * Return: A pointer to take the new node, or NULL

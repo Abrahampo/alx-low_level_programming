@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * free_listint - Release a linked list
- * @head:A pointer for the listint_t list to be released
+ * @h :A pointer for the listint_t list to be released
  */
 void free_listint(listint_t *head)
 {

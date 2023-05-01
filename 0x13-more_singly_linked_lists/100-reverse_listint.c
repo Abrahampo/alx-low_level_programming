@@ -3,7 +3,7 @@
 
 /**
  * reverse_listint - rverses elments in a linked list
- * @head: A pointer that takes the first nodes
+ * @h: A pointer that takes the first nodes
  * Return: A pointer that takes first node of the start or new list
  */
 

@@ -3,7 +3,7 @@
 
 /**
  * free_listint2 - Releases a linked list.
- * @head: A pointer to take the listint_t list.
+ * @h: A pointer to take the listint_t list.
  */
 
 void free_listint2(listint_t **head)

@@ -3,8 +3,8 @@
 
 /**
  * delete_nodeint_at_index - traverses nodes in a linked list
- * @head: A pointer that takes the first elements of the linked list
- * @index: A element of the node to b traversed
+ * @h: A pointer that takes the first elements of the linked list
+ * @idx: A element of the node to b traversed
  * Return: 1 (Good), or -1 (Failed)
  */
 int delete_nodeint_at_index(listint_t **head, unsigned int index)

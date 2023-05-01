@@ -3,7 +3,7 @@
 
 /**
  * find_listint_loop - locates loop in the list
- * @head: list for searching
+ * @h: list for searching
  * Return: location or address of nodes where the loop begins, or NULL
  */
 

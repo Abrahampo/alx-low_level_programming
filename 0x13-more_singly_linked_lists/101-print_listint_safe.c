@@ -7,9 +7,9 @@ size_t print_listint_safe(const listint_t *head);
 /**
  * looped_listint_len - enumerates number of individual nodes
  * for the looped the linked list.
- * @head: pointers that takes the start of the listint_t to compute.
+ * @h: pointers that takes the start of the listint_t to compute.
  * Return: check If the list is not looped - 0.
- * Otherwise - the element of individual nodes in the list.
+ * maybe - the element of individual nodes in the list.
  */
 
 size_t looped_listint_len(const listint_t *head)

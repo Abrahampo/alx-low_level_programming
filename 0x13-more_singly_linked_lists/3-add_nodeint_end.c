@@ -3,7 +3,7 @@
 
 /**
  * add_nodeint_end - increase nodes at the end of a linked list
- * @head: A pointer to take the first elements
+ * @h: A pointer to take the first elements
  * @n: Elements to insert.
  *
  * Return: A pointer to check the new node, or NULL if it fails
